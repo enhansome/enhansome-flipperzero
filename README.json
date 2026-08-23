@@ -17,7 +17,7 @@
                 "last_commit": "2024-07-12T16:52:11Z",
                 "owner": "tobiabocchi",
                 "repo": "flipperzero-bruteforce",
-                "stars": 2511
+                "stars": 2510
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2022-05-19T04:24:48Z",
                 "owner": "jimilinuxguy",
                 "repo": "flipperzero-touchtunes",
-                "stars": 718
+                "stars": 719
               }
             },
             {
@@ -99,7 +99,7 @@
                 "last_commit": "2026-07-26T22:27:26Z",
                 "owner": "nortakales",
                 "repo": "flipper-zero-tonies",
-                "stars": 521
+                "stars": 522
               }
             }
           ],
@@ -121,7 +121,7 @@
                 "last_commit": "2024-06-15T09:43:09Z",
                 "owner": "I-Am-Jakoby",
                 "repo": "Flipper-Zero-BadUSB",
-                "stars": 7025
+                "stars": 7028
               }
             },
             {
@@ -136,7 +136,7 @@
                 "last_commit": "2026-08-01T00:18:46Z",
                 "owner": "FalsePhilosopher",
                 "repo": "badusb",
-                "stars": 1960
+                "stars": 1962
               }
             },
             {
@@ -166,7 +166,7 @@
                 "last_commit": "2025-03-20T16:30:28Z",
                 "owner": "MarkCyber",
                 "repo": "BadUSB",
-                "stars": 367
+                "stars": 368
               }
             }
           ],
@@ -265,7 +265,7 @@
                 "archived": false,
                 "id": 559048939,
                 "language": "C",
-                "last_commit": "2026-08-21T22:00:17Z",
+                "last_commit": "2026-08-22T18:30:09Z",
                 "owner": "xMasterX",
                 "repo": "all-the-plugins",
                 "stars": 1523
@@ -357,7 +357,7 @@
                 "last_commit": "2025-03-20T16:30:28Z",
                 "owner": "MarkCyber",
                 "repo": "BadUSB",
-                "stars": 367
+                "stars": 368
               }
             },
             {
@@ -409,7 +409,7 @@
                 "last_commit": "2026-07-28T00:55:56Z",
                 "owner": "UberGuidoZ",
                 "repo": "Flipper",
-                "stars": 17402
+                "stars": 17409
               }
             },
             {
@@ -439,7 +439,7 @@
                 "last_commit": "2026-06-03T20:24:02Z",
                 "owner": "quen0n",
                 "repo": "unitemp-flipperzero",
-                "stars": 352
+                "stars": 353
               }
             },
             {
@@ -506,7 +506,7 @@
                 "last_commit": "2026-07-28T00:55:56Z",
                 "owner": "UberGuidoZ",
                 "repo": "Flipper",
-                "stars": 17402
+                "stars": 17409
               }
             },
             {
@@ -518,10 +518,10 @@
                 "archived": false,
                 "id": 208325027,
                 "language": "C++",
-                "last_commit": "2026-08-22T05:03:10Z",
+                "last_commit": "2026-08-23T03:37:08Z",
                 "owner": "justcallmekoko",
                 "repo": "ESP32Marauder",
-                "stars": 12062
+                "stars": 12077
               }
             },
             {
@@ -573,7 +573,7 @@
                 "last_commit": "2023-12-08T17:55:07Z",
                 "owner": "noproto",
                 "repo": "ble_spam_ofw",
-                "stars": 190
+                "stars": 191
               }
             },
             {
@@ -722,7 +722,7 @@
                 "last_commit": "2025-05-19T08:29:03Z",
                 "owner": "akopachov",
                 "repo": "flipper-zero_authenticator",
-                "stars": 666
+                "stars": 667
               }
             },
             {
@@ -852,10 +852,10 @@
                 "archived": false,
                 "id": 470579591,
                 "language": "C",
-                "last_commit": "2026-08-22T05:18:29Z",
+                "last_commit": "2026-08-22T19:09:29Z",
                 "owner": "DarkFlippers",
                 "repo": "unleashed-firmware",
-                "stars": 22103
+                "stars": 22111
               }
             },
             {
@@ -870,7 +870,7 @@
                 "last_commit": "2026-08-18T20:42:11Z",
                 "owner": "Next-Flip",
                 "repo": "Momentum-Firmware",
-                "stars": 9059
+                "stars": 9061
               }
             },
             {
@@ -882,10 +882,10 @@
                 "archived": false,
                 "id": 492005030,
                 "language": "C",
-                "last_commit": "2026-08-22T03:47:53Z",
+                "last_commit": "2026-08-22T22:14:25Z",
                 "owner": "RogueMaster",
                 "repo": "flipperzero-firmware-wPlugins",
-                "stars": 6328
+                "stars": 6330
               }
             }
           ],
@@ -1010,7 +1010,7 @@
                 "last_commit": "2026-07-28T00:55:56Z",
                 "owner": "UberGuidoZ",
                 "repo": "Flipper",
-                "stars": 17402
+                "stars": 17409
               }
             },
             {
@@ -1040,7 +1040,7 @@
                 "last_commit": "2026-08-03T23:27:17Z",
                 "owner": "Kuronons",
                 "repo": "FZ_graphics",
-                "stars": 570
+                "stars": 571
               }
             },
             {
@@ -1311,10 +1311,10 @@
                 "archived": false,
                 "id": 208325027,
                 "language": "C++",
-                "last_commit": "2026-08-22T05:03:10Z",
+                "last_commit": "2026-08-23T03:37:08Z",
                 "owner": "justcallmekoko",
                 "repo": "ESP32Marauder",
-                "stars": 12062
+                "stars": 12077
               }
             },
             {
@@ -1641,7 +1641,7 @@
                 "last_commit": "2026-02-23T12:02:41Z",
                 "owner": "jon4hz",
                 "repo": "fztea",
-                "stars": 399
+                "stars": 400
               }
             },
             {
@@ -1714,7 +1714,7 @@
                 "last_commit": "2026-07-28T00:55:56Z",
                 "owner": "UberGuidoZ",
                 "repo": "Flipper",
-                "stars": 17402
+                "stars": 17409
               }
             },
             {
@@ -1729,7 +1729,7 @@
                 "last_commit": "2026-07-28T00:55:56Z",
                 "owner": "UberGuidoZ",
                 "repo": "Flipper",
-                "stars": 17402
+                "stars": 17409
               }
             }
           ],
@@ -1742,7 +1742,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T07:59:39.976Z",
+    "last_updated": "2026-08-23T08:00:22.479Z",
     "original_repository": "djsime1/awesome-flipperzero",
     "original_repository_id": 469703690,
     "original_repository_sha": "135dc8f6d21c915551c386a0ebbe3a4e7ed2bc10",
