@@ -587,7 +587,7 @@
                 "last_commit": "2026-08-25T04:33:04Z",
                 "owner": "justcallmekoko",
                 "repo": "ESP32Marauder",
-                "stars": 12112
+                "stars": 12114
               }
             },
             {
@@ -921,7 +921,7 @@
                 "last_commit": "2026-08-17T12:49:01Z",
                 "owner": "flipperdevices",
                 "repo": "flipperzero-firmware",
-                "stars": 16508
+                "stars": 16509
               }
             }
           ],
@@ -943,7 +943,7 @@
                 "last_commit": "2026-08-22T19:09:29Z",
                 "owner": "DarkFlippers",
                 "repo": "unleashed-firmware",
-                "stars": 22117
+                "stars": 22118
               }
             },
             {
@@ -1402,7 +1402,7 @@
                 "last_commit": "2026-08-25T04:33:04Z",
                 "owner": "justcallmekoko",
                 "repo": "ESP32Marauder",
-                "stars": 12112
+                "stars": 12114
               }
             },
             {
@@ -1896,7 +1896,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:44:25.325Z",
+    "last_updated": "2026-08-25T08:21:53.200Z",
     "original_repository": "djsime1/awesome-flipperzero",
     "original_repository_id": 469703690,
     "original_repository_sha": "135dc8f6d21c915551c386a0ebbe3a4e7ed2bc10",
